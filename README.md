@@ -5,6 +5,8 @@ This repository includes a few scripts that were used to generate the climate CS
 The code in this repository uses data from Apple Weather, that may be modified and used for training the ML model in other repositories.
 Data sources attribution: https://developer.apple.com/weatherkit/data-source-attribution/.
 
+The code uses the [WeatherKit REST API](https://developer.apple.com/documentation/weatherkitrestapi). This requires an Apple Developer Program membership.
+
 ### Data from climateapi.scottpinkelman.com
 The code in this repository uses data from http://climateapi.scottpinkelman.com.
 It uses data from the Institute for Veterinary Public Health and the Provincial Government of Carinthia in Austria.
